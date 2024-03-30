@@ -27,7 +27,7 @@ PWM drawer works as a mini oscilloscope that is responsible for printing the fre
 
 2. **PWM Measuring Task:**
    - Implement a task responsible for generating PWM signals.
-   - - Implement a task responsible for measuring and drawing PWM signals.
+   - Implement a task responsible for measuring and drawing PWM signals.
    
 3. **Resource Management:**
    - Manage system resources efficiently to ensure optimal performance.
